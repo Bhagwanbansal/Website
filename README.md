@@ -5,7 +5,7 @@
 <br>
 ![altt](https://github.com/Bhagwanbansal/Website/blob/main/1_2.png?raw=true)
 <br>
-![altt](https://github.com/Bhagwanbansal/Website/blob/main/1_4.png?raw=true) 
+![altt](https://github.com/Bhagwanbansal/Website/blob/main/1_5.png?raw=true) 
 <br>
 
 > Do follow and star my repository.
